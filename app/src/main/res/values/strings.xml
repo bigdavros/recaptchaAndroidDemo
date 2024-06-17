@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">recaptchaAndroidDemo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Random Number</string>
+    <string name="second_fragment_label">Second Page</string>
+    <string name="next">Generate</string>
+    <string name="previous">Back</string>
+
+    <string name="hello_first_fragment">Get a random number here</string>
+    <string name="hello_second_fragment">Your number is: %1$s</string>
+</resources>
